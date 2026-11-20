@@ -1,0 +1,1 @@
+{"dependencies":{"bcryptjs":"^2.4.3","cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.21.2","jsonwebtoken":"^9.0.2","mysql2":"^3.11.3"},"description":"Demo Shop backend — Node.js + Express + JWT + MySQL (with in-memory fallback). Demo project only.","main":"server.js","name":"demoshop-backend","scripts":{"dev":"node server.js","start":"node server.js"},"version":"1.0.0"}
