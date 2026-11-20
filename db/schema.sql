@@ -4,7 +4,7 @@
 --   mysql -u root -p < db/schema.sql
 --   (or: CREATE DATABASE demoshop; then run this file)
 -- The backend also works WITHOUT MySQL: if it cannot connect, it falls
--- back to the same in-memory demo data (backend/data.js).
+-- back to the same in-memory demo data (backend/src/data/demoData.js).
 
 CREATE DATABASE IF NOT EXISTS demoshop CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE demoshop;
